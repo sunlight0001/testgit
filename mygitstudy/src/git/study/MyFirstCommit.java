@@ -9,6 +9,10 @@ public class MyFirstCommit {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("this is add in dev branch");
 	}
 
+	public void sys(){
+		System.out.println("dev");
+	}
 }
