@@ -17,7 +17,7 @@ public class MyFirstCommit {
 		System.out.println("a new commit for syn");
 		
 		
-		System.out.println("a new commit for syn  aa");
+		System.out.println("a new commit for syn  ee");
 		System.out.println("a new commit for syn  bb");
 	}
 }
