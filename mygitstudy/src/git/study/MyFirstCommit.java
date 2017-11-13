@@ -20,7 +20,7 @@ public class MyFirstCommit {
  		System.out.println("a new commit for syn  cc and ee");
 		System.out.println("a new commit for syn  bb");
 		
-		System.out.println("this is edit in github");
+		System.out.println("this is edit in github all good");
 		System.out.println("this is edit in github  at two and one");
 	}
 }
