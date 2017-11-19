@@ -15,7 +15,7 @@ public class MyFirstCommit {
 	public void sys(){
 		System.out.println("master and dev");
 		System.out.println("a new commit for syn");
-		
+		System.out.println("a new commit for yuancheng");
 		
  		System.out.println("a new commit for syn  cc and ee");
 		System.out.println("a new commit for syn  bb and xx and yy");
