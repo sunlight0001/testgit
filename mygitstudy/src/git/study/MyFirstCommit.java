@@ -18,7 +18,7 @@ public class MyFirstCommit {
 		System.out.println("a new commit for yuancheng gg");
 		
  		System.out.println("a new commit for syn  cc and ee aa");
-		System.out.println("a new commit for syn  bb and xx and yy");
+		System.out.println("a new commit for syn  bb and xx and yy  and cc");
 		
 		System.out.println("this is edit in github all good is good tool");
 		System.out.println("this is edit in github  at two and one");
