@@ -13,7 +13,7 @@ public class MyFirstCommit {
 	}
 
 	public void sys(){
-		System.out.println("master and dev");
+		System.out.println("master and dev remote");
 		System.out.println("a new commit for syn");
 		System.out.println("a new commit for yuancheng gg");
 		
