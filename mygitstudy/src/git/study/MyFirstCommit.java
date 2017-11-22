@@ -13,7 +13,7 @@ public class MyFirstCommit {
 	}
 
 	public void sys(){
-		System.out.println("master and dev");
+		System.out.println("master and dev is local");
 		System.out.println("a new commit for syn");
 		System.out.println("a new commit for yuancheng gg");
 		
@@ -22,5 +22,6 @@ public class MyFirstCommit {
 		
 		System.out.println("this is edit in github all good is good tool");
 		System.out.println("this is edit in github  at two and one and yy");
+		System.out.println("this is new");
 	}
 }
