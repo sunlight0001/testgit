@@ -13,7 +13,7 @@ public class MyFirstCommit {
 	}
 
 	public void sys(){
-		System.out.println("master and dev is local");
+		System.out.println("master and dev is local and remote");
 		System.out.println("a new commit for syn");
 		System.out.println("a new commit for yuancheng gg");
 		
